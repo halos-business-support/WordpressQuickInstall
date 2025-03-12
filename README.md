@@ -1,5 +1,16 @@
 # wpquickinstall
-A tool for installing Apache, MariaDB, PHP and Wordpress on Ubuntu Servers
+
+#About 
+Welcome to the Halos Business Support Github Account. This repository contains code for
+installing Apache, MariaDB, PHP and Wordpress on Ubuntu Servers. It was originally designed for 
+use on Ubuntu 20.04 LTS on AWS. This collection of scripts will do the following. 
+
+1. Install Apache, MariaDB and PHP
+2. Install Wordpress
+3. Setup your apache Vhosts
+4. Install Lets Encrypt Certbot and issue an SSL Certificate.
+
+##Getting Started 
 
 Start by cloning the repository to your server.
 
