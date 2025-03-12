@@ -11,7 +11,7 @@ use on Ubuntu 20.04 LTS on AWS but may work with other flavours. This collection
 3. Setup your apache Vhosts
 4. Install Lets Encrypt Certbot and issue an SSL Certificate.
 
-Deverloped by Steven Duval at Halos Business Support. If you need support for your business, why not check us out. 
+Developed by Steven Duval at Halos Business Support. If you need support for your business, why not check us out. 
 **https://halos.support**. 
 
 <h2>Getting Started</h2>
