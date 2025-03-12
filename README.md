@@ -19,12 +19,9 @@ Start by cloning the repository to your server.
 
 Navigate to the wpquickinstall directory and then to make your scripts executable. 
 
+`sudo chmod +x *.sh`
 
-``
-sudo chmod +x lampinstall.sh wpinstall.sh 
-``
 
-From there you can run both files. Its pretty self explanatory.
 
 Install Lamp Server
 
