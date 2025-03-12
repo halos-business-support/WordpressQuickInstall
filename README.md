@@ -1,6 +1,6 @@
 # wpquickinstall
 
-#About 
+<h1>About</h1>h1> 
 Welcome to the Halos Business Support Github Account. This repository contains code for
 installing Apache, MariaDB, PHP and Wordpress on Ubuntu Servers. It was originally designed for 
 use on Ubuntu 20.04 LTS on AWS. This collection of scripts will do the following. 
