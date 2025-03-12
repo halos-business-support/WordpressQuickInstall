@@ -22,6 +22,5 @@ Install Lamp Server
 
 Install Wordpress 
 
-'''
-sudo ./wpinstall.sh
-''' 
+
+`sudo ./wpinstall.sh` 
