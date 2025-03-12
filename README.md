@@ -30,6 +30,6 @@ Now you have 4 scripts to choose from.
 
 <h2>Running Your Scripts</h2>
 
-To run your scripts just enter the following: 
-`sudo ./_SCRIPTNAME_`
+To run your scripts just enter the following and follow the onscreen instructions: 
+`sudo ./"SCRIPTNAME"`
 
