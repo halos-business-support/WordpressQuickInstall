@@ -2,10 +2,9 @@
 A tool for installing Apache, MariaDB, PHP and Wordpress on Ubuntu Servers
 
 Start by cloning the repository to your server.
-
-'''
+``
 git clone https://github.com/halos-business-support/wpquickinstall.git
-'''
+``
 
 Navigate to the wpquickinstall directory and then to make your scripts executable. 
 
