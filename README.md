@@ -23,9 +23,9 @@ Navigate to the wpquickinstall directory and then to make your scripts executabl
 
 Now you have 4 scripts to choose from. 
 
-**Install Apache Server, Maria DB and PHP** > lampinstall.sh
-**Download Wordpress and Setup DB** > wpinstall.sh
-**Set Up Apache Vhosts** > vhostinstall.sh
-**Install Lets Encrypt Certbot and issue an SSL Certificate** > certbotinstall.sh
+-**Install Apache Server, Maria DB and PHP** > lampinstall.sh
+-**Download Wordpress and Setup DB** > wpinstall.sh
+-**Set Up Apache Vhosts** > vhostinstall.sh
+-**Install Lets Encrypt Certbot and issue an SSL Certificate** > certbotinstall.sh
 
 
