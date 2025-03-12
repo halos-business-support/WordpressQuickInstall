@@ -18,9 +18,7 @@ From there you can run both files. Its pretty self explanatory.
 
 Install Lamp Server
 
-'''
-sudo ./lampinstall.sh 
-'''
+`sudo ./lampinstall.sh `
 
 Install Wordpress 
 
