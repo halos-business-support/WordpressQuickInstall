@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Prompt for variables
 read -p "Enter the WordPress database name (e.g., wordpress_db): " DB_NAME
 read -p "Enter the WordPress database user (e.g., wordpress_user): " DB_USER

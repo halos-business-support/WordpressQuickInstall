@@ -38,5 +38,4 @@ sudo systemctl status mariadb
 echo "Verifying PHP installation..."
 php -v
 
-echo "Webserver Installation complete.#"
-
+echo "Webserver Installation complete."
