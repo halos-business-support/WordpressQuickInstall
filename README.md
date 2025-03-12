@@ -36,3 +36,8 @@ Now you have 4 scripts to choose from.
 To run your scripts just enter the following and follow the onscreen instructions: 
 `sudo ./"SCRIPTNAME"`
 
+<h2>Further Development</h2>
+
+At some point I'll add a "**beast mode**" which will run all 4 scripts one after the other with one singular user input at the start. 
+This will probably require a little bit more testing first. 
+
