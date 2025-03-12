@@ -21,13 +21,7 @@ Navigate to the wpquickinstall directory and then to make your scripts executabl
 
 `sudo chmod +x *.sh`
 
+Now you have 4 scripts to choose from. 
 
+Install Apache Server, Maria DB and PHP > lampinstall.sh
 
-Install Lamp Server
-
-`sudo ./lampinstall.sh `
-
-Install Wordpress 
-
-
-`sudo ./wpinstall.sh` 
