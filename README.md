@@ -28,4 +28,8 @@ Now you have 4 scripts to choose from.
 - **Set Up Apache Vhosts** > vhostinstall.sh
 - **Install Lets Encrypt Certbot and issue an SSL Certificate** > certbotinstall.sh
 
+<h2>Running Your Scripts</h2>
+
+To run your scripts just enter the following: 
+`sudo ./_SCRIPTNAME_`
 
